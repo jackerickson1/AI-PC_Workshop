@@ -1,0 +1,5 @@
+-r ../requirements_base.txt
+transformers
+packaging
+scipy
+matplotlib

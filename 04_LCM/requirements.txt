@@ -1,0 +1,6 @@
+-r ../requirements_base.txt
+transformers
+diffusers
+peft
+datasets
+pillow

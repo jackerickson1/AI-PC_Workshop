@@ -1,0 +1,5 @@
+-r 01_StyleTransfer/requirements.txt
+-r 02_BenchmarkApp/requirements.txt
+-r 03_ChatbotWithRAG/requirements.txt
+-r 04_LCM/requirements.txt
+-r 05_MusicGen/requirements.txt

@@ -1,0 +1,5 @@
+-r ../requirements_base.txt
+openvino-dev
+pandas
+matplotlib
+opencv-python

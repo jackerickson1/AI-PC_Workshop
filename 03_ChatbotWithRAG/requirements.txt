@@ -1,0 +1,20 @@
+-r ../requirements_base.txt
+openvino-tokenizers[transformers]
+optimum-intel
+auto-gptq
+datasets
+accelerate
+onnx<1.16.2
+einops
+transformers_stream_generator
+tiktoken
+transformers>=4.43.1
+faiss-cpu
+sentence_transformers
+langchain>=0.2.0
+langchain-community>=0.2.15
+langchainhub
+unstructured
+scikit-learn
+python-docx
+pypdf

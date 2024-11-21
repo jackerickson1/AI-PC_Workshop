@@ -1,0 +1,8 @@
+torch
+torchvision
+openvino
+nncf
+tqdm
+gradio
+ipywidgets
+jupyterlab
